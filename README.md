@@ -40,3 +40,7 @@ A---B---C---M---N---O---P---Q---R master
                       \
                         G---H---I aa
 ```
+
+A doc for implicit arguments of rebase can be found on page [rebase-implicit.md](rebase-implicit.md).
+
+A bit of *rebase by example* you can practice with this repo in the link [rebase.md](rebase.md).
